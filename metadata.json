@@ -1,0 +1,6 @@
+{
+  "name": "HOPSCOT",
+  "description": "Hop Colleges. Catch Vibes. College event discovery, ticketing, and social travel matching platform for Delhi NCR and beyond.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
